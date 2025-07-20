@@ -25,6 +25,10 @@ python -m venv venv
 venv\Scripts\activate
 pip install -r requirements.txt
 ```
+## Screenshots 
+<img width="926" height="849" alt="Screenshot 2025-06-24 220542" src="https://github.com/user-attachments/assets/0b80cf8d-963a-41cc-85b7-166d86f99c6c" />
+<img width="904" height="858" alt="Screenshot 2025-06-24 220558" src="https://github.com/user-attachments/assets/2dba2028-aa0d-4fe6-92f7-92b71a354137" />
+
 
 ## Create a .env file and add:
 ```bash
